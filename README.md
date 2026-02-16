@@ -1,4 +1,4 @@
-#Programación de Entornos Virtuales.
+# Programación de Entornos Virtuales.
 
 Este proyecto es un prototipo funcional de un entorno virtual 3D desarrollado para la materia de Programación de Entornos Virtuales.
 
