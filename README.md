@@ -1,4 +1,5 @@
-Programación de Entornos Virtuales
+#Programación de Entornos Virtuales.
+
 Este proyecto es un prototipo funcional de un entorno virtual 3D desarrollado para la materia de Programación de Entornos Virtuales.
 
 La particularidad de este proyecto es que sustituimos los controles tradicionales (teclado/mouse) por una Interfaz de Usuario Natural (NUI) basada en Inteligencia Artificial, utilizando únicamente tecnologías web estándar.
